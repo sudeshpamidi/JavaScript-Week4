@@ -1,0 +1,23 @@
+.result-box {
+    background-color: rgba(38, 128, 217, .2);
+    margin: 15px 0 0;
+    padding: 25px;
+    display: block;
+}
+
+.alert {
+    display: none;
+}
+
+.red,
+.error {
+    color: red;
+}
+
+.hid {
+    display: none;
+}
+
+.show {
+    display: block;
+}
